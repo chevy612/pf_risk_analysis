@@ -84,6 +84,4 @@ Benchmark Quarterly Volatility: 6.30%
 Benchmark Annual Volatility: 12.59%
 ```
 
-## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
